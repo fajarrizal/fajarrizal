@@ -1,4 +1,4 @@
-- 👋 Hi, I’m rizalfajar
+- 👋 Hi, I’m Rizal Fajar Mastura
 - 👀 I’m interested in UI/UX design, also web development
 - 🌱 I’m currently learning Front-end and UX research
 - 💞️ I’m now full time freelancer 
